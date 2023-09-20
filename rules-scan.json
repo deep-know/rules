@@ -500,7 +500,6 @@
     "Mailsac": "(?:mailsac).{0,40}\\b(k_[0-9A-Za-z]{36,})\\b",
     "Mandrill": "(?:mandrill).{0,40}\\b([A-Za-z0-9_-]{22})\\b",
     "Manifest": "(?:manifest).{0,40}\\b([a-zA-z0-9]{32})\\b",
-    "Mapbox - 1": "([a-zA-Z-0-9]{4,32})",
     "Mapbox - 2": "\\b(sk\\.[a-zA-Z-0-9\\.]{80,240})\\b",
     "Mapquest": "(?:mapquest).{0,40}\\b([0-9A-Za-z]{32})\\b",
     "Marketstack": "(?:marketstack).{0,40}\\b([a-z0-9]{32})\\b",
